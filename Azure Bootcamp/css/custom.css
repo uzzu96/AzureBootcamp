@@ -1,0 +1,26 @@
+
+@media (max-width: 576px) { 
+    #header1{
+        margin-left: 0;
+    }    
+
+    #ATE{
+        text-align: center;
+        font-size: 3rem;
+    }
+
+    #header2{
+        text-align: center;
+        font-size: 3rem;
+    }
+}
+
+@media (min-width: 577px) {
+    #header1{
+        margin-left: 5rem;
+    }
+
+    #header2{
+        text-align: left;
+    }
+}
